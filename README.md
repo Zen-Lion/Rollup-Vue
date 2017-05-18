@@ -1,7 +1,7 @@
 # Rollup Plugin:
 
-"cross-env": "^5.0.0",
-"cssnano": "^3.10.0",
+-- "cross-env": "^5.0.0",
+-- "cssnano": "^3.10.0",
 "node-sass": "^4.5.2",
 "rollup": "^0.41.6",
 "rollup-plugin-alias": "^1.3.1",
